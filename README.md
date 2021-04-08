@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naveen
-- 👀 I’m interested in javascript,react,html,css,recoil,redux-saga,graphql,nextjs,preact
+- 👀 I’m interested in #Javascript,react,html,css,recoil,redux-saga,graphql,nextjs,preact
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to work on exciting react/UI projects
 
