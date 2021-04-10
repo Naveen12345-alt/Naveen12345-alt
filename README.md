@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ***Naveen***
 - 👀 I’m interested in **Javascript, React, Html, Css, Recoil, Graphql, Nextjs, Preact**
-- 🌱 I’m currently learning *React*
+- 🌱 I’m currently learning *React,Redux,Redux-toolkit*
 - 💞️ I’m looking to work on exciting **React/UI projects**
 
 
