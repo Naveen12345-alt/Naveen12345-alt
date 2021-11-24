@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ***Naveen***
 - 👀 I’m interested in **Javascript, React, Angular, Ionic, React Native, Python, Django, Celery, Redis, PostgreSQL, DRF**
-- 🌱 I’m currently learning *React,Redux,Redux-toolkit*
+- 🌱 I’m currently learning *Angular, Ionic, Python, Django, Celery*
 - 💞️ I’m looking to work on exciting **React/UI projects**
 
 
