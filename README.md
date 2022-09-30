@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ***Naveen***
 - 👀 I’m interested in **Javascript, Python**
-- 🌱 I’m currently learning *Angular, Ionic, Python, Django, Celery*
-- 💞️ I’m looking to work on exciting **Full-Stack Projects**
+- 🌱 I’m currently learning *React, Python*
+- 💞️ I’m looking to work on exciting **Front-end/Full-Stack Projects**
 
 
 <!---
