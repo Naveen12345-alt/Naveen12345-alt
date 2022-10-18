@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ***Naveen***
 - 👀 I’m interested in **Javascript, Python**
-- 🌱 I’m currently learning *React, Python*
+- 🌱 I’m currently learning *React, FASTAPI*
 - 💞️ I’m looking to work on exciting **Front-end/Full-Stack Projects**
 
 
